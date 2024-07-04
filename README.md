@@ -45,7 +45,7 @@ sudo bash manager.sh up
 Open a browser on the other machine and visit: https://account.network3.ai/main?o=xx.xx.xx.xx:8080
 
 With: IP address of the Ubuntu machine is xx.xx.xx.xx and port 8080
-
+<img src="https://raw.githubusercontent.com/nodesynctop/Network3/main/network3.PNG">
 Then you could click the '+' button on the top-right of the panel of current node in the dashboard. 
 And input the private key of the node in the dialog to bind. You may get the private key by this command:
 
