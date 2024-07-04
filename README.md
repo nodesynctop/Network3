@@ -8,6 +8,9 @@ Discord: https://discord.com/invite/q4cHgxZUCH
 Telegram: https://t.me/network3official
 
 X: https://x.com/network3_ai
+# Register account
+
+https://account.network3.ai/register_page?rc=5dd0d548
 
 # Installation Guide for Ubuntu
 ```
