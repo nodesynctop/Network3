@@ -13,17 +13,25 @@ X: https://x.com/network3_ai
 https://account.network3.ai/register_page?rc=5dd0d548
 
 # Installation Guide for Ubuntu
+
+### 1. Server preparation
+
 ```
 sudo apt update
 sudo apt install wget curl make clang net-tools pkg-config libssl-dev build-essential jq lz4 gcc unzip snapd -y
 ```
+
+
+### 2. Download and Extract the tar file
 ```
 cd $HOME
 wget https://network3.io/ubuntu-node-v1.1.tar
 tar -xf ubuntu-node-v1.1.tar
 rm -rf ubuntu-node-v1.1.tar
 cd ubuntu-node
-#start node
+```
+### 3. Start node
+```
 sudo bash manager.sh up
 ```
 
