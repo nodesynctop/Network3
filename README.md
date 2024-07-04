@@ -43,8 +43,12 @@ sudo bash manager.sh up
 ##### 4.2  From another machine
 
 Open a browser on the other machine and visit: https://account.network3.ai/main?o=xx.xx.xx.xx:8080
+
 With: IP address of the Ubuntu machine is xx.xx.xx.xx and port 8080
-Then you could click the '+' button on the top-right of the panel of current node in the dashboard. And input the private key of the node in the dialog to bind. You may get the private key by this command:
+
+Then you could click the '+' button on the top-right of the panel of current node in the dashboard. 
+And input the private key of the node in the dialog to bind. You may get the private key by this command:
+
 ```
 sudo bash manager.sh key
 ```
