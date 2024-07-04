@@ -34,7 +34,7 @@ cd ubuntu-node
 ```
 sudo bash manager.sh up
 ```
-### 4. Provides node access
+### 4. Provides node access to your account
 #### 4.1 If the Ubuntu system has a desktop environment
  You can access the dashboard directly through Firefox at: https://account.network3.ai/main
  #### 4.2  From another machine
