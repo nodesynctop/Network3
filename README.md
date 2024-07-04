@@ -38,7 +38,7 @@ sudo bash manager.sh up
 
 ##### 4.1 If the Ubuntu system has a desktop environment
 
- You can access the dashboard directly through Firefox at: https://account.network3.ai/main
+ You can access the dashboard directly through Firefox at: https://account.network3.ai/main , It will auto access.
  
 ##### 4.2  From another machine
 
