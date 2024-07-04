@@ -42,7 +42,7 @@ sudo bash manager.sh up
  
 ##### 4.2  From another machine
 
-Open a browser on the other machine and visit: https://account.network3.ai/main?o=xx.xx.xx.xx:8080
+Open a browser `Firefox` on the other machine and visit: https://account.network3.ai/main?o=xx.xx.xx.xx:8080
 
 `With: IP address of the Ubuntu machine is xx.xx.xx.xx`
 
