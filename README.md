@@ -35,8 +35,12 @@ cd ubuntu-node
 sudo bash manager.sh up
 ```
 ### 4. Provides node access to your account
-#### 4.1 If the Ubuntu system has a desktop environment
+
+##### 4.1 If the Ubuntu system has a desktop environment
+
  You can access the dashboard directly through Firefox at: https://account.network3.ai/main
- #### 4.2  From another machine
+ 
+##### 4.2  From another machine
+
 Open a browser on the other machine and visit: https://account.network3.ai/main?o=xx.xx.xx.xx:8080
 With: IP address of the Ubuntu machine is xx.xx.xx.xx and port 8080
