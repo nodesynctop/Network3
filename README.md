@@ -14,3 +14,11 @@ X: https://x.com/network3_ai
 sudo apt update
 sudo apt install wget curl make clang net-tools pkg-config libssl-dev build-essential jq lz4 gcc unzip snapd -y
 ```
+```
+wget https://network3.io/ubuntu-node-v1.1.tar
+tar -xf ubuntu-node-v1.1.tar
+cd ubuntu-node
+#start node
+sudo bash manager.sh up
+```
+
