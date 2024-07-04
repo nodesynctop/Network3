@@ -10,7 +10,7 @@ Telegram: https://t.me/network3official
 X: https://x.com/network3_ai
 
 # Installation Guide for Ubuntu
-```consol
+```
 sudo apt update
 sudo apt install wget curl make clang net-tools pkg-config libssl-dev build-essential jq lz4 gcc unzip snapd -y
 ```
